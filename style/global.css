@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    font-family: 'inter';
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
